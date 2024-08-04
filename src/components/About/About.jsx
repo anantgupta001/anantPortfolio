@@ -1,6 +1,8 @@
 import React from "react";
 import { getImageUrl } from "../../utils";
 import styles from "./About.module.css";
+import resume from '../../../assets/Anant Resume.pdf';
+
 
 export const About = () => {
     return (
@@ -30,9 +32,10 @@ export const About = () => {
                     </ul>
                     <div className={styles.resumeButtonContainer}>
                         <a 
-                            href="assets/Anant Resume.pdf" 
+                            href={resume} 
                             download="Anant's Resume" 
                             target='_blank'
+                            rel="noopener noreferrer"
                         >
                             <button 
                                 type="button" 
