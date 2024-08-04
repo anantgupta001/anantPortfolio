@@ -1,13 +1,13 @@
 {
-  "homepage": "http://AnantGupta001.github.io/anantgupta",
-  "name": "portfolio",
+  "homepage": "http://AnantGupta001.github.io/anantPortfolio",
+  "name": "anantPortfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
