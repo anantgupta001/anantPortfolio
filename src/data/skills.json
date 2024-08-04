@@ -1,11 +1,15 @@
 [
     {
-      "title": "HTML",
-      "imageSrc": "skills/html.png"
+      "title": "Javascript",
+      "imageSrc": "skills/javascript.png"
     },
     {
-      "title": "CSS",
-      "imageSrc": "skills/css.png"
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Express",
+      "imageSrc": "skills/express.png"
     },
     {
       "title": "React",
@@ -16,15 +20,15 @@
       "imageSrc": "skills/node.png"
     },
     {
-      "title": "GraphQL",
-      "imageSrc": "skills/graphql.png"
+      "title": "My Sql",
+      "imageSrc": "skills/mysql.png"
     },
     {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
+      "title": "AWS",
+      "imageSrc": "skills/aws.png"
     },
     {
-      "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "title": "Redux",
+      "imageSrc": "skills/redux.png"
     }
   ]

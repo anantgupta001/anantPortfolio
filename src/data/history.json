@@ -1,29 +1,18 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
+      "role": "Contributor",
+      "organisation": "FFCS",
+      "startDate": "Jan, 2024",
+      "endDate": "Feb, 2024",
+      "experiences": ["Worked on VIT-AP campus", "Cut course selection time by 40%."],
+      "imageSrc": "history/github.png"
+    },
+    {
+      "role": "Backend Developer",
+      "organisation": "FoodApe",
+      "startDate": "July, 2024",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
-    },
-    {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
+      "experiences": ["Developed complete backend code", "Led a team of five members"],
+      "imageSrc": "projects/foodape.svg"
     }
   ]

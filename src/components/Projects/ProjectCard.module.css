@@ -11,6 +11,7 @@
 }
 
 .image {
+    max-height: 15vh;
     margin-bottom: 26px;
 } 
 
